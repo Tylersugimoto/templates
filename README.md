@@ -1,2 +1,2 @@
 # templates
-various templates for coding. 
+Various templates for coding. 
