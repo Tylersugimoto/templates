@@ -1,1 +1,9 @@
-
+//problem 2
+size(1000,1000);
+fill(00,200,00);
+rect(100,200,400,500);
+fill(00,300,00);
+bezier(500,400,800,600,800,900,700,800);
+//*Tyler Sugimoto, 29 August 2017, beautiful code consisting of color, line, and shape
+problem 3
+void draw(){background(204);line(mouseY,20,mouseY,80);}
